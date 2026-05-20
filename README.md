@@ -6,6 +6,3 @@ This is a playground for the lab from the Git Branching and Pull Requests lesson
 first changes in dev ops course
 another change
 somting else 
-and another change
-creating conflict
-creating second conflict
