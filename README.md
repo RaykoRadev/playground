@@ -7,3 +7,4 @@ first changes in dev ops course
 another change
 somting else 
 and another change
+creating conflict
